@@ -1,1 +1,1 @@
-# Apparel-Classifier-Using-CNN
+# Apparel-Classifier
